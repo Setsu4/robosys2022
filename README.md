@@ -1,4 +1,5 @@
 # robosys2022
+![test](https://github.com/Setsu4/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ロボットシステム学練習リポジトリ
 
@@ -10,7 +11,6 @@ $ git clone https://github.com/Setsu4/robosys2022.git
 $ cd robosys2022
 ```
 ## plusコマンド
-![test](https://github.com/Setsu4/robosys2022/actions/workflows/test.yml/badge.svg)
 
   * 1から標準入力で読み込んだ数字までを足す.
 
@@ -24,12 +24,12 @@ $ seq 5 | ./plus
 ## 必要なソフトウェア
 * Python 3.7～3.10 :テスト済み
 
+## 動作確認環境
+* Ubuntu22.04.1
+
+* © 2022 Setsu Ito
+
 ## ライセンス
   * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-
-## 動作確認環境
-* Ubuntu
-
-* © 2022 Setsu Ito
